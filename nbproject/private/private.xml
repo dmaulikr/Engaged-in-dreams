@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/embdev/Git/GuruOfSurvival/src/Mech/Collision.java</file>
+            <file>file:/home/embdev/Git/GuruOfSurvival/src/Main/SIZE.java</file>
+            <file>file:/home/embdev/Git/GuruOfSurvival/src/Resources/Map/MAP0.gif</file>
+            <file>file:/home/embdev/Git/GuruOfSurvival/src/Mech/MapEmulator.java</file>
+            <file>file:/home/embdev/Git/GuruOfSurvival/src/Resources/Map/MAP0.map</file>
+            <file>file:/home/embdev/Git/GuruOfSurvival/src/Objects/Entity.java</file>
+            <file>file:/home/embdev/Git/GuruOfSurvival/src/Objects/Sparkle.java</file>
+            <file>file:/home/embdev/Git/GuruOfSurvival/src/Mech/KeyHandler.java</file>
+            <file>file:/home/embdev/Git/GuruOfSurvival/src/Objects/Player.java</file>
+            <file>file:/home/embdev/Git/GuruOfSurvival/src/Main/Game.java</file>
+            <file>file:/home/embdev/Git/GuruOfSurvival/src/Core/network/Signal.java</file>
+            <file>file:/home/embdev/Git/GuruOfSurvival/src/Objects/Camera.java</file>
+            <file>file:/home/embdev/Git/GuruOfSurvival/src/Core/network/NetworkMap.java</file>
+            <file>file:/home/embdev/Git/GuruOfSurvival/src/Main/GamePanel.java</file>
+        </group>
+    </open-files>
+</project-private>
